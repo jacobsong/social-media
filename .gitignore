@@ -1,2 +1,3 @@
-#ignore node_modules
+#ignore these files/folders
 node_modules/
+config/keys_dev.js
